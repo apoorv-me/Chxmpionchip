@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Barlow Semi Condensed';
+    src: url('../fonts/BarlowSemiCondensed-ExtraBold.eot');
+    src: url('../fonts/BarlowSemiCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BarlowSemiCondensed-ExtraBold.woff2') format('woff2'),
+        url('../fonts/BarlowSemiCondensed-ExtraBold.woff') format('woff'),
+        url('../fonts/BarlowSemiCondensed-ExtraBold.ttf') format('truetype'),
+        url('../fonts/BarlowSemiCondensed-ExtraBold.svg#BarlowSemiCondensed-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
